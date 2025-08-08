@@ -10,9 +10,8 @@ using CitiesManager.WebAPI.Models;
 
 namespace CitiesManager.WebAPI.Controllers
 {
-    [Route("api/[controller]")]
-    [ApiController] // for validation of binding like modelState and return 400 with list of error message in model , for return json by default
-    public class CitiesController : ControllerBase
+   
+    public class CitiesController : CustomControllerBase
     {
         private readonly ApllicationDbContext _context;
 
@@ -112,3 +111,6 @@ namespace CitiesManager.WebAPI.Controllers
         }
     }
 }
+
+// Note 
+// if you will return only object you can use ActionResylt <T> but if you will return diffrent results use IActionResult
