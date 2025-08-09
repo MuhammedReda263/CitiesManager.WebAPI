@@ -1,4 +1,5 @@
 using CitiesManager.WebAPI.DatabaseContext;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.CodeAnalysis.Options;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -11,7 +12,11 @@ builder.Services.AddDbContext<ApllicationDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
 });
-builder.Services.AddControllers();
+builder.Services.AddControllers(options =>
+{   // Global filters
+    options.Filters.Add(new ProducesAttribute("application/json")); // content of response body must be application/json
+    options.Filters.Add(new ConsumesAttribute("application/json")); // content of request body must be application/json
+}).AddXmlSerializerFormatters();; // Add xml format in our application
 
 //Swagger
 builder.Services.AddEndpointsApiExplorer(); //Generates description for all endpoints

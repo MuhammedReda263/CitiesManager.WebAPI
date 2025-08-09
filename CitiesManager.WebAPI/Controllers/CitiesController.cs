@@ -26,6 +26,7 @@ namespace CitiesManager.WebAPI.Controllers
         /// </summary>
         /// <returns></returns>
         [HttpGet]
+        [Produces("application/xml")] // custom the type content of response body 
         public async Task<ActionResult<IEnumerable<City>>> GetCities()
         {
             return await _context.Cities.ToListAsync();
