@@ -278,3 +278,9 @@ C:\Users\Muhammed Reda\Desktop\CitiesManagerSolution\CitiesManager.WebAPI\bin\De
 C:\Users\Muhammed Reda\Desktop\CitiesManagerSolution\CitiesManager.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\Muhammed Reda\Desktop\CitiesManagerSolution\CitiesManager.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Muhammed Reda\Desktop\CitiesManagerSolution\CitiesManager.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Muhammed Reda\Desktop\CitiesManagerSolution\CitiesManager.WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Muhammed Reda\Desktop\CitiesManagerSolution\CitiesManager.WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Muhammed Reda\Desktop\CitiesManagerSolution\CitiesManager.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Muhammed Reda\Desktop\CitiesManagerSolution\CitiesManager.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Muhammed Reda\Desktop\CitiesManagerSolution\CitiesManager.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Muhammed Reda\Desktop\CitiesManagerSolution\CitiesManager.WebAPI\obj\Debug\net8.0\CitiesManager.WebAPI.MvcApplicationPartsAssemblyInfo.cs
