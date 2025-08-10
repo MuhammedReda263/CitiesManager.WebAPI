@@ -7,10 +7,13 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using CitiesManager.WebAPI.DatabaseContext;
 using CitiesManager.WebAPI.Models;
+using Asp.Versioning;
 
-namespace CitiesManager.WebAPI.Controllers
+namespace CitiesManager.WebAPI.Controllers.v1
 {
-   
+
+    [ApiVersion("1.0")]
+
     public class CitiesController : CustomControllerBase
     {
         private readonly ApllicationDbContext _context;
@@ -26,7 +29,7 @@ namespace CitiesManager.WebAPI.Controllers
         /// </summary>
         /// <returns></returns>
         [HttpGet]
-        [Produces("application/xml")] // custom the type content of response body 
+        // [Produces("application/xml")] // custom the type content of response body 
         public async Task<ActionResult<IEnumerable<City>>> GetCities()
         {
             return await _context.Cities.ToListAsync();
@@ -36,12 +39,12 @@ namespace CitiesManager.WebAPI.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<City>> GetCity(Guid id)
         {
-            var city = await _context.Cities.FirstOrDefaultAsync(x=>x.Id==id);
+            var city = await _context.Cities.FirstOrDefaultAsync(x => x.Id == id);
 
             if (city == null)
             {
-                return Problem(detail: "Invalid CityId", statusCode: 400, title: "City Search");
-                 //return NotFound();
+                return Problem(detail: "Invalid CityId", statusCode: 404, title: "City Search");
+                //return NotFound();
             }
 
             return city;
@@ -49,7 +52,7 @@ namespace CitiesManager.WebAPI.Controllers
 
         // PUT: api/Cities/5
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutCity(Guid id,[Bind(nameof(City.Id),(nameof(City.Name)))] City city)
+        public async Task<IActionResult> PutCity(Guid id, [Bind(nameof(City.Id), (nameof(City.Name)))] City city)
         {
             if (id != city.Id)
             {
@@ -81,7 +84,7 @@ namespace CitiesManager.WebAPI.Controllers
 
         // POST: api/Cities
         [HttpPost]
-        public async Task<ActionResult<City>> PostCity([Bind(nameof(City.Id),nameof(City.Name))]City city)
+        public async Task<ActionResult<City>> PostCity([Bind(nameof(City.Id), nameof(City.Name))] City city)
         {
             if (_context.Cities.Any(c => c.Id == city.Id))
             {

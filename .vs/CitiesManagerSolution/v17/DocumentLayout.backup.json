@@ -7,20 +7,24 @@
       "RelativeMoniker": "D:0:0:{4DF66D72-0211-44FD-8CE9-B3F0D1E5AD01}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DF66D72-0211-44FD-8CE9-B3F0D1E5AD01}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\muhammed reda\\desktop\\citiesmanagersolution\\citiesmanager.webapi\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DF66D72-0211-44FD-8CE9-B3F0D1E5AD01}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DF66D72-0211-44FD-8CE9-B3F0D1E5AD01}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\muhammed reda\\desktop\\citiesmanagersolution\\citiesmanager.webapi\\citiesmanager.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4DF66D72-0211-44FD-8CE9-B3F0D1E5AD01}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\citiesmanager.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DF66D72-0211-44FD-8CE9-B3F0D1E5AD01}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\muhammed reda\\desktop\\citiesmanagersolution\\citiesmanager.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4DF66D72-0211-44FD-8CE9-B3F0D1E5AD01}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4DF66D72-0211-44FD-8CE9-B3F0D1E5AD01}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\muhammed reda\\desktop\\citiesmanagersolution\\citiesmanager.webapi\\controllers\\v1\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF66D72-0211-44FD-8CE9-B3F0D1E5AD01}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\controllers\\v1\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF66D72-0211-44FD-8CE9-B3F0D1E5AD01}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\muhammed reda\\desktop\\citiesmanagersolution\\citiesmanager.webapi\\controllers\\v2\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF66D72-0211-44FD-8CE9-B3F0D1E5AD01}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\controllers\\v2\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DF66D72-0211-44FD-8CE9-B3F0D1E5AD01}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\muhammed reda\\desktop\\citiesmanagersolution\\citiesmanager.webapi\\controllers\\customcontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DF66D72-0211-44FD-8CE9-B3F0D1E5AD01}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\controllers\\customcontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DF66D72-0211-44FD-8CE9-B3F0D1E5AD01}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\muhammed reda\\desktop\\citiesmanagersolution\\citiesmanager.webapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DF66D72-0211-44FD-8CE9-B3F0D1E5AD01}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DF66D72-0211-44FD-8CE9-B3F0D1E5AD01}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\muhammed reda\\desktop\\citiesmanagersolution\\citiesmanager.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DF66D72-0211-44FD-8CE9-B3F0D1E5AD01}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DF66D72-0211-44FD-8CE9-B3F0D1E5AD01}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\muhammed reda\\desktop\\citiesmanagersolution\\citiesmanager.webapi\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,15 +74,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\CitiesManagerSolution\\CitiesManager.WebAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\CitiesManagerSolution\\CitiesManager.WebAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "CitiesManager.WebAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-09T00:54:36.256Z",
+              "DocumentIndex": 3,
+              "Title": "CitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\CitiesManagerSolution\\CitiesManager.WebAPI\\Controllers\\v2\\CitiesController.cs",
+              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\Controllers\\v2\\CitiesController.cs",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\CitiesManagerSolution\\CitiesManager.WebAPI\\Controllers\\v2\\CitiesController.cs",
+              "RelativeToolTip": "CitiesManager.WebAPI\\Controllers\\v2\\CitiesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T22:43:49.053Z",
               "EditorCaption": ""
             },
             {
@@ -89,40 +93,53 @@
               "RelativeDocumentMoniker": "CitiesManager.WebAPI\\Program.cs",
               "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\CitiesManagerSolution\\CitiesManager.WebAPI\\Program.cs",
               "RelativeToolTip": "CitiesManager.WebAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwCEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-07T01:34:57.557Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "CitiesManager.WebAPI.http",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\CitiesManagerSolution\\CitiesManager.WebAPI\\CitiesManager.WebAPI.http",
+              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\CitiesManager.WebAPI.http",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\CitiesManagerSolution\\CitiesManager.WebAPI\\CitiesManager.WebAPI.http",
+              "RelativeToolTip": "CitiesManager.WebAPI\\CitiesManager.WebAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-09T21:12:15.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CustomControllerBase.cs",
               "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\CitiesManagerSolution\\CitiesManager.WebAPI\\Controllers\\CustomControllerBase.cs",
               "RelativeDocumentMoniker": "CitiesManager.WebAPI\\Controllers\\CustomControllerBase.cs",
               "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\CitiesManagerSolution\\CitiesManager.WebAPI\\Controllers\\CustomControllerBase.cs",
               "RelativeToolTip": "CitiesManager.WebAPI\\Controllers\\CustomControllerBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-08T03:18:54.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CitiesController.cs",
-              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\CitiesManagerSolution\\CitiesManager.WebAPI\\Controllers\\CitiesController.cs",
-              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\Controllers\\CitiesController.cs",
-              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\CitiesManagerSolution\\CitiesManager.WebAPI\\Controllers\\CitiesController.cs",
-              "RelativeToolTip": "CitiesManager.WebAPI\\Controllers\\CitiesController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwBgAAABPAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\CitiesManagerSolution\\CitiesManager.WebAPI\\Controllers\\v1\\CitiesController.cs",
+              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\Controllers\\v1\\CitiesController.cs",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\CitiesManagerSolution\\CitiesManager.WebAPI\\Controllers\\v1\\CitiesController.cs",
+              "RelativeToolTip": "CitiesManager.WebAPI\\Controllers\\v1\\CitiesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-07T22:50:31.051Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "20250807053451_Initial.cs",
               "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\CitiesManagerSolution\\CitiesManager.WebAPI\\Migrations\\20250807053451_Initial.cs",
               "RelativeDocumentMoniker": "CitiesManager.WebAPI\\Migrations\\20250807053451_Initial.cs",
@@ -130,12 +147,23 @@
               "RelativeToolTip": "CitiesManager.WebAPI\\Migrations\\20250807053451_Initial.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T05:34:52.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T05:34:52.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\CitiesManagerSolution\\CitiesManager.WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\CitiesManagerSolution\\CitiesManager.WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CitiesManager.WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-09T00:54:36.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "20250808013926_editCityEntity.cs",
               "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\CitiesManagerSolution\\CitiesManager.WebAPI\\Migrations\\20250808013926_editCityEntity.cs",
               "RelativeDocumentMoniker": "CitiesManager.WebAPI\\Migrations\\20250808013926_editCityEntity.cs",
@@ -143,12 +171,11 @@
               "RelativeToolTip": "CitiesManager.WebAPI\\Migrations\\20250808013926_editCityEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T01:39:26.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-08T01:39:26.706Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\CitiesManagerSolution\\CitiesManager.WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "CitiesManager.WebAPI\\appsettings.json",
@@ -156,25 +183,11 @@
               "RelativeToolTip": "CitiesManager.WebAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-07T05:27:03.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T05:27:03.454Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TestController.cs",
-              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\CitiesManagerSolution\\CitiesManager.WebAPI\\Controllers\\TestController.cs",
-              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\Controllers\\TestController.cs",
-              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\CitiesManagerSolution\\CitiesManager.WebAPI\\Controllers\\TestController.cs",
-              "RelativeToolTip": "CitiesManager.WebAPI\\Controllers\\TestController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T05:00:49.824Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ApllicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\CitiesManagerSolution\\CitiesManager.WebAPI\\DatabaseContext\\ApllicationDbContext.cs",
               "RelativeDocumentMoniker": "CitiesManager.WebAPI\\DatabaseContext\\ApllicationDbContext.cs",
@@ -182,12 +195,11 @@
               "RelativeToolTip": "CitiesManager.WebAPI\\DatabaseContext\\ApllicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T05:22:15.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T05:22:15.327Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "City.cs",
               "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\CitiesManagerSolution\\CitiesManager.WebAPI\\Models\\City.cs",
               "RelativeDocumentMoniker": "CitiesManager.WebAPI\\Models\\City.cs",
@@ -195,8 +207,7 @@
               "RelativeToolTip": "CitiesManager.WebAPI\\Models\\City.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T05:19:32.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T05:19:32.846Z"
             }
           ]
         }
